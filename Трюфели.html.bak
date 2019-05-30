@@ -15,7 +15,9 @@
   </head>
   <body>
     <h1>Кокосови трюфели</h1>
-    <hr> <img src="1.jpg.jpg" alt="Coconut Truffles" style="width= 55%" align="left">
+    <hr> <img src="1.jpg" alt="Coconut Truffles" style="width= 55%"
+
+      align="left">
     <p><ins> Необходими продукти:</ins></p>
     <ul>
       <li> чаши подсладени кокосови люспи</li>
@@ -35,6 +37,5 @@
       <li>Оставете в хладилника за още един час преди сервиране</li>
       <botton></botton>
     </ul>
-    
   </body>
 </html>

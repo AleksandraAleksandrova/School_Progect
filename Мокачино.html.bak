@@ -16,12 +16,10 @@
   </head>
   <body>
     <center>
-      <h1>Мокачино </h1>
+      <h1> Рецепта за десерт Мокачино </h1>
     </center>
     <hr> <br>
-    <img src="mochaccino_pic.jpg" alt="mochaccino dessert" style="float:right;width:55%"
-
-      ;height:30%=""> <ins> Необходими продукти: </ins>
+    <img src="mochaccino_pic.jpg" alt="mochaccino dessert" style="float:right;width:55%";height:30%=""> <ins> Необходими продукти: </ins>
     <ol style="float:center-right" ;="">
       <li>За какаовия блат:</li>
       <ul style="list-style-type:disc;">

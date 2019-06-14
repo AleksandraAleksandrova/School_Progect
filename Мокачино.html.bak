@@ -4,6 +4,11 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Десерт Мокачино</title>
     <style> 
+  img {
+  display:block;
+  margin-left:aut;
+  margin-right:auto; 
+  }
   body {
     background:#faebd7
   }
@@ -13,10 +18,10 @@
     <center>
       <h1>Мокачино </h1>
     </center>
-    <hr> 
-    <br>
-    <img src="mochaccino_pic.jpg" alt="mochaccino dessert" style="float:right;width:55%";height:30%=""> 
-    <i> Необходими продукти: </i>
+    <hr> <br>
+    <img src="mochaccino_pic.jpg" alt="mochaccino dessert" style="float:right;width:55%"
+
+      ;height:30%=""> <ins> Необходими продукти: </ins>
     <ol style="float:center-right" ;="">
       <li>За какаовия блат:</li>
       <ul style="list-style-type:disc;">
@@ -51,9 +56,7 @@
       </ul>
     </ol>
     <br>
-    <center> 
-    <i>Начин на приготвяне:</i> 
-    </center>
+    <center> <ins>Начин на приготвяне:</ins> </center>
     <ul>
       <li>За каковия блат пресяваме заедно брашното, какаото и бакпулвера и ги
         оставяме настрана. Слагаме маслото в купа, добавяме захарта и ванилията,

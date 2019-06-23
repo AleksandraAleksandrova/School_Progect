@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Бананов крем Парфе</title>
+    <style>
+      body{
+        background:#ffccee;
+      }
+      .button{
+        cursor: pointer;
+      }
+        
+    </style>
+  </head>
+  <body>
+    <center>
+      <h1>Бананов крем-Парфе </h1>
+    </center>
+    <hr>
+    <div style="margin-left: 200px;"> <img src="23.jpg" alt="This is picture" style="width: 534px; height: 353px;"
+
+        align="left"> </div>
+    <div style="margin-left:1200px; text-align: justify;"><button> <a href="JavaSctipt%20Calculator.html"
+
+          target="_blank" class="button">Калкулатор</a></button></div>
+    <div style="margin-left: 800px; text-align: justify;"><ins>
+        <p>Необходими продукти:</p>
+      </ins> </div>
+    <div style="margin-left: 850px; text-align: justify;">
+      <ul>
+        <li> 1-2 с.л. царевично нишесте </li>
+        <li>1/2 чаша захар</li>
+        <li>1/4 ч.л. сол</li>
+        <li>1 чаша мляко</li>
+        <li>1 ч.л. екстракт отбанан</li>
+        <li>2 яйца</li>
+        <li>1 с.л. масло</li>
+        <li>2 ч.л. екстракт от ванилия</li>
+        <li>2 унци крема сирене на стайна температура</li>
+        <li>1 1/2 чаши </li>
+        <h3>Декорация</h3>
+        <li>Нарязани банани</li>
+        <li>Шоколадови стърготини</li>
+      </ul>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div style="margin-right: 200px;"><img src="45.jpg" alt="This is picture" width="400 px"
+
+        height=" 330px" align="right"> </div>
+    <div style="text-align: justify; margin-left: 100px;"><ins>
+        <p>Начин на приготвяне:</p>
+      </ins> </div>
+    <ul style="text-align: justify; margin-left: 150px;">
+      <li>В средна тенджера разбийте заедно царевичното нишесте,захарта и солта</li>
+      <li>Разбийте сместта с млякото,след това добавете банановия
+        екстракт,яйцата и маслото</li>
+      <li>Загрява се на средна температура,постоянно разбърквайки,докато
+        съставките започнат да кипят</li>
+      <li>Отстранете от огъня и добавете екстракта от ванилия</li>
+      <li>В отделна купа разбийте крема сиренето,докато стане пухкаво</li>
+      <li>Оставете ги да се охладяд в хладилника</li>
+      <h3>Декорация</h3>
+      <li>Изберете красива чаша</li>
+      <li>Добавете на дъното ѝ 2-3 лъжички отпървата смес.</li>
+      <li>Направете същото с другата смес</li>
+      <li>Редувайте ги ,докато достигнете повърхността на чашата</li>
+      <li>Използвайте пош за направата на декорацията с втората смес. </li>
+      <li>Украсасете с резенче банан и шоколадовите стърготини</li>
+    </ul>
+  </body>
+</html>
